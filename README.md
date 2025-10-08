@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Murad — a Go Developer from Moscow.  
-I combine backend development with a strong background in system analysis and design.  
+I combine backend development with a background in system analysis and BI.  
 
 - 💻 Senior Backend with Go  
 - 🧩 System design & architecture  
