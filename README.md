@@ -1,25 +1,58 @@
-# Hi there 👋
+<div align="center">
 
-I'm Murad — a Go Developer from Moscow.  
-I combine backend development with a background in system analysis and BI.  
+# Hi, I'm Murad 👋
 
-- 💻 Senior Backend with Go  
-- 🧩 System design & architecture  
-- 📊 Business & system analysis  
-- 🌱 Exploring distributed systems and databases  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Senior+Go+Backend+Developer;System+Design+%26+Architecture;Business+%26+System+Analysis" alt="Typing SVG" />
 
+📍 Moscow &nbsp;•&nbsp; 🐹 Go &nbsp;•&nbsp; 🏗 Backend & Architecture
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/idalov.kh) 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/idalov.kh)
+[![Cravix](https://img.shields.io/badge/Cravix-cravix.ru-111111?style=flat-square)](https://cravix.ru)
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=idalovkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=idalovkh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=idalovkh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=idalovkh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About me
+
+Senior Go developer based in Moscow. I came to backend from system analysis and BI,
+and it still shapes how I work: understand the problem and the data first,
+design second, write code third.
+
+**What I do**
+- Go backend: services, APIs, integrations
+- Architecture: service boundaries, data flow, what breaks when the load grows
+- Turning business requirements into technical decisions, with nothing lost between analysts and developers
+
+### Projects
+
+- **[Taqseet](https://taqseet.ru)**: SaaS for installment-based businesses: contracts, payments, accounting. Go, ~300 API methods, web + iOS
+- **thedeshar**: a platform for private language teachers. In development
+
+### Client work
+
+Through my studio **[Cravix](https://cravix.ru)** I build SaaS, web and mobile apps end to end.
+Got a project? Reach me on [Telegram](https://t.me/YOUR_USERNAME).
+
+---
+
+### Tech stack
+
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=go,python" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch" /> |
+| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,grafana" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,gitlab" /> |
+
+---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=idalovkh&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idalovkh&theme=tokyonight&hide_border=true&layout=compact" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=idalovkh&theme=tokyonight&hide_border=true" />
+
+</div>
