@@ -8,7 +8,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/idalov.kh)
-[![Cravix](https://img.shields.io/badge/Cravix-cravix.ru-111111?style=flat-square)](https://cravix.ru)
+[![Cravix](https://img.shields.io/badge/Cravix-2563EB?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgZmlsbD0ibm9uZSI+PGcgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjQuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48cGF0aCBkPSJNNDEuMDcgOS45M0ExOS45IDE5LjkgMCAxIDAgNDEuMDcgMzguMDciLz48cGF0aCBkPSJNMzUuNTYgMTUuNDRBMTIuMSAxMi4xIDAgMSAwIDM1LjU2IDMyLjU2Ii8+PHBhdGggZD0iTTMwLjA0IDIwLjk2QTQuMyA0LjMgMCAxIDAgMzAuMDQgMjcuMDQiLz48L2c+PC9zdmc+)](https://cravix.ru)
 
 </div>
 
