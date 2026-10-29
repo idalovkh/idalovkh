@@ -16,7 +16,7 @@
 
 ### About me
 
-Senior Go developer based in Moscow. I came to backend from system analysis and BI,
+Go developer based in Moscow. I came to backend from system analysis and BI,
 and it still shapes how I work: understand the problem and the data first,
 design second, write code third.
 
